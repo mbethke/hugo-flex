@@ -1,5 +1,5 @@
 params:
-  color: teal           # Any color in CSS syntax
+  color: steelblue      # Any color in CSS syntax
   width: 42rem          # Any length in CSS syntax
   footer: >-            # A hardcoded space is needed before each html element
     Except where otherwise noted, content on this site is licensed under a &#32;
@@ -29,15 +29,9 @@ params:
 
 menu:
   nav:
-  - name: About
-    url: about/
-    weight: 1
   - name: Posts
-    url: post/
+    url: posts/
     weight: 2
-  - name: Tags
-    url: tags/
-    weight: 3
   - name: Categories
     url: categories/
     weight: 4
