@@ -30,11 +30,11 @@ params:
 menu:
   nav:
   - name: Posts
-    url: posts/
+    url: /posts/
     weight: 2
   - name: Categories
-    url: categories/
+    url: /categories/
     weight: 4
   - name: RSS
-    url: index.xml
+    url: /index.xml
     weight: 5
